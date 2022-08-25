@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.container{
+	margin: auto;
+	padding: 40px;
+	height: 800px;
+	width: 700px;
+/* 	border: solid; */
+  	display: block;
+/*   	justify-content: center;
+  	justify-content: space-between; */
+}
+
+.body{
+/* 	margin:auto; */
+	margin-left: 0px;
+	height: 400px;
+	width: 500px;
+/* 	border: solid; */
+	padding: 20px;
+
+}
+
+h1{
+/* 	margin: auto; */
+	color:#faccd4;
+ 	padding-left: 40px; 
+
+}
+
+h3{
+/* 	margin: auto; */
+	color: #b6b7bb;
+	padding:  5px;
+	padding-left: 40px; 
+}
+.btn{
+	background-color:#faccd4;
+}

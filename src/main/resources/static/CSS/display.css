@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.container{
+	margin: auto;
+	padding-left: 250px;
+	height: 800px;
+	width: 700px;
+/* 	border: solid; */
+  	display: block;
+  	justify-content: center;
+
+}
+
+table{
+	
+  height: 600px;
+  width: 900p;
+
+}
+
+table, tr, td {
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+.btn{
+	background-color:#faccd4;
+
+}
+
+h1{
+	color:#faccd4;
+}
+
+.btn{
+	background-color:#faccd4;
+}
